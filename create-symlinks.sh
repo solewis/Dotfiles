@@ -6,7 +6,7 @@
 
 ########## Variables
 
-dir=~/Dotfiles                    # dotfiles directory
+dir=~/dotfiles                    # dotfiles directory
 files=".vimrc .vim"    # list of files/folders to symlink in homedir
 
 ##########
