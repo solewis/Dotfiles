@@ -1,3 +1,6 @@
 [user]
   name = Steven Lewis
   email = stevenolewis@gmail.com
+[alias]
+	co = checkout
+	st = status
